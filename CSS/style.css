@@ -307,10 +307,6 @@
   background: linear-gradient(to right, #114357, #f29492);
 }
 
-.gallery .container {
-  background-color:whitesmoke;
-}
-
 .gallery .photo-gallery {
   color:#313437;
 }
@@ -394,6 +390,7 @@
   color: whitesmoke;
   background: #0aceff6e;
   text-decoration: none;
+  border-radius: 50px;
 }
 
 .cta .cta-btn:hover {
